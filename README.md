@@ -721,9 +721,6 @@ Special thanks to the following resources that made this project possible:
 
 ---
 
-## 👨‍💻 About the Author
-
-Hi! I'm **Rishabh Singh**, an aspiring **Data Analyst** and **Machine Learning Enthusiast** passionate about transforming raw data into actionable business insights.
 
 I'm currently building projects that combine:
 
@@ -735,23 +732,6 @@ I'm currently building projects that combine:
 
 My goal is to build end-to-end analytics solutions that solve real-world business problems while continuously improving my technical skills.
 
----
-
-## 📬 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/RishabhSingh290306">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/rishabhsingh290306">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
 
 ## ⭐ Support the Project
 
